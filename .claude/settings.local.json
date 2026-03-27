@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"D:\\\\Dropbox \\(Personal\\)\\\\Personal\\\\web\\\\kolektiuri_com\")",
+      "WebFetch(domain:kolektiuri.com)"
+    ]
+  }
+}
